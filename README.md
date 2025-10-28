@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">
- <b><a href="https://t.me/sb_reactionbot" target="/blank">VIP REACTION BOT</a>
+ <b><a href="https://t.me/sb_reactionbot" target="/blank">REACTION BOT</a>
 </h1>
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>
@@ -19,7 +19,7 @@
 - broadcast feature 
 - Cloning feature
 - Deploy To Koyeb, Heroku, Railway, Vps... etc
-- [Developer support](https://t.me/THE_VIP_BOY) 24x7
+- [Developer support](https://t.me/ll_kingdom_ll) 24x7
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -58,7 +58,7 @@ for more commands check repo plugins...
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/THE-VIP-BOY-OP/VIP-REACTION-BOT">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/amritraj78/reaction">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
@@ -106,10 +106,10 @@ bash start
     
 
 ### Contact:
-<a href="https://t.me/THE_VIP_BOY_OP">
+<a href="https://t.me/ll_kingdom_ll">
     <img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
 </a>
-<a href="https://instagram.com/the.vip.boy">
+<a href="https://instagram.com/ex_amrit">
     <img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
